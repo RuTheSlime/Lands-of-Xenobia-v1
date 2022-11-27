@@ -1,0 +1,65 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": true,
+  "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:adventure/affix_loot/gem_dust"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [
+        "enigmaticlegacy:misc/animal_guide",
+        "enigmaticlegacy:misc/hunter_guide",
+        "enigmaticlegacy:world/first_glance",
+        "enigmaticlegacy:world/ancient_tomes",
+        "enigmaticlegacy:relics/enigmatic_amulet",
+        "enigmaticlegacy:relics/cursed_ring",
+        "enigmaticlegacy:relics/spellstones"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "dynamictrees:guide": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "mythicbotany:alfheim/alfheim_landscape",
+        "botania:misc/starfield",
+        "botania:alfhomancy/gaia_ritual_hardmode",
+        "botania:alfhomancy/gaia_ritual"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "bloodmagic:guide": {
+      "viewedEntries": [
+        "bloodmagic:alchemy_table/alchemy_table",
+        "bloodmagic:altar/soul_network"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "extendedcrafting:guide": {
+      "viewedEntries": [
+        "extendedcrafting:crafting/combination",
+        "extendedcrafting:crafting/tables"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/upgrades",
+        "ars_nouveau:equipment/spell_books"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

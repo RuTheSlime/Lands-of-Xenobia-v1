@@ -1,0 +1,54 @@
+{
+    "pools": [
+        {
+            "rolls": 3,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:ignitium_ingot"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:music_disc_ignis"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance_with_looting",
+                    "chance": 0.1,
+                    "looting_multiplier": 0.1
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:molten_edge"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:brimstone_claymore"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:emberblade"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 991,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}

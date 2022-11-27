@@ -1,0 +1,49 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "n": 1,
+                                "p": 0.2,
+                                "type": "minecraft:binomial"
+                            }
+                        }
+                    ],
+                    "name": "mobz:orb"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:soulrender"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:soulstealer"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:watcher_claymore"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 0,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}

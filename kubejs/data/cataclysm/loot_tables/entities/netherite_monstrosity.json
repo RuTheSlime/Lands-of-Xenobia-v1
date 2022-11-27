@@ -1,0 +1,58 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:infernal_forge"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:monstrous_horn"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:music_disc_netherite_monstrosity"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance_with_looting",
+                    "chance": 0.1,
+                    "looting_multiplier": 0.1
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:emberblade"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:watcher_claymore"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 996,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}

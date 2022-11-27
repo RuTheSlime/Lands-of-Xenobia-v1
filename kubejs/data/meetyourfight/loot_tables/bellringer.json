@@ -1,0 +1,74 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"name": "phantoplasm",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "meetyourfight:phantoplasm",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"name": "gold",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:gold_ingot",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 3,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						},
+						{
+							"function": "minecraft:looting_enchant",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				}
+			]
+		},
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:soulkeeper" 
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:soulstealer" 
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:soulrender" 
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:soulpyre" 
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 986,
+                    "name": "minecraft:air" 
+                }
+            ]
+        }
+	]
+}

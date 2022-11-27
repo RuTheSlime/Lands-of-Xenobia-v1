@@ -1,0 +1,49 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:gauntlet_of_guard"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cataclysm:music_disc_ender_guardian"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance_with_looting",
+                    "chance": 0.1,
+                    "looting_multiplier": 0.1
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:watching_warglaive"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:bramblethorn"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 996,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}

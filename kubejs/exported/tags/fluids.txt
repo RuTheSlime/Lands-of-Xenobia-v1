@@ -1,0 +1,227 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 8, 2022, 3:58:42 AM
+
+#forge:any_milk
+- #forge:milk
+- #forge:animal_milk
+- #forge:plant_milk
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- restored_earth:mud
+- restored_earth:flowing_mud
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- mahoutsukai:murky_still
+- mahoutsukai:murky_flow
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:milk
+- carrots:milk
+- carrots:flowing_milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:alcohol
+
+#forge:water
+- minecraft:water
+- minecraft:flowing_water
+
+#forge:special_honey
+
+#forge:animal_milk
+- carrots:milk
+- carrots:flowing_milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:potable_water
+- carrots:potable_water
+- carrots:flowing_potable_water
+- survive:purified_water?
+- survive:flowing_purified_water?
+
+#forge:molten_fiery
+- #twilightforest:molten_fiery?
+
+#forge:untreated_water
+- minecraft:water
+- minecraft:flowing_water
+- carrots:dirty_water
+- carrots:flowing_dirty_water
+- thebetweenlands:stagnant_water?
+- thebetweenlands:swamp_water?
+
+#forge:cow_milk
+- carrots:milk
+- carrots:flowing_milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#create:bottomless/deny
+
+#forge:plant_milk
+- carrots:oatmilk
+- carrots:flowing_oatmilk
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:experience
+- carrots:experience
+- carrots:flowing_experience
+- cofh_core:experience
+- sophisticatedcore:xp_still
+- reliquary:xp_juice_still
+
+#forge:slime
+
+#forge:swimmable_in
+- #forge:water
+
+#twilightforest:molten_fiery
+- twilightforest:molten_fiery?
+- twilightforest:flowing_molten_fiery?
+
+#forge:slurry
+
+#twilightforest:fiery_essence
+- twilightforest:fiery_essence?
+- twilightforest:flowing_fiery_essence?
+
+#tconstruct:spilling/metal/cheap
+- #forge:molten_fiery
+- #twilightforest:molten_knightmetal
+
+#forge:healing
+- carrots:honey
+- carrots:oatmilk
+
+#forge:creosote
+
+#forge:ink
+- carrots:squidink
+- carrots:flowing_squidink
+
+#forge:fertility_tea
+- gardencalypso:compost_tea?
+- gardencalypso:fertility_tea?
+
+#forge:crude_oil
+
+#forge:any_water
+- #minecraft:water
+- #forge:potable_water
+- #forge:untreated_water
+
+#tconstruct:tooltips/metal
+- #forge:molten_fiery
+- #forge:molten_knightmetal
+
+#forge:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#twilightforest:molten_knightmetal
+- twilightforest:molten_knightmetal?
+- twilightforest:flowing_molten_knightmetal?
+
+#forge:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava
+
+#forge:plantoil
+- carrots:seedoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- theabyss:areno
+- theabyss:flowing_areno
+
+#forge:ethanol
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:growth_water
+- #forge:any_water
+- #forge:fertility_tea
+
+#forge:potion
+- cofh_core:potion
+
+#forge:seedoil
+- carrots:seedoil
+- carrots:flowing_seedoil
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:molten_knightmetal
+- #twilightforest:molten_knightmetal?
+
+#forge:cream
+
+#forge:disallowed_bottled_pickup
+- carrots:potable_water
+- carrots:flowing_potable_water
+- survive:purified_water?
+- survive:flowing_purified_water?
+- #forge:disallowed_sipping?
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- carrots:honey
+- carrots:flowing_honey
+- cofh_core:honey
+- create:flowing_honey
+- create:honey
+
+#forge:common
+- #forge:experience
+- #forge:honey
+- #forge:ink
+- #forge:lava
+- #forge:any_milk
+- #forge:seedoil
+- #forge:any_water
+
+#forge:disallowed_sipping
+
+#forge:drinkable
+- carrots:potable_water
+- carrots:dirty_water
+- carrots:milk
+- carrots:oatmilk
+- carrots:honey
+- carrots:experience
+- survive:purified_water?
+- minecraft:milk?
+- #forge:alcohol?
+- #forge:potion?

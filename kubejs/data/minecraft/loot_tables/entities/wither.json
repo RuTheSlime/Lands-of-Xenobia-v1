@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nether_star"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:molten_edge"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:soulpyre"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:soulrender"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:storms_edge"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 986,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}

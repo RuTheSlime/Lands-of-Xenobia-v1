@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:mjolnir"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "simplyswords:frostfall"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:twisted_blade"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 5,
+                    "name": "simplyswords:stormbringer"
+                },                {
+                    "type": "minecraft:item",
+                    "weight": 986,
+                    "name": "minecraft:air"
+                }
+            ]
+        }
+    ]
+}
