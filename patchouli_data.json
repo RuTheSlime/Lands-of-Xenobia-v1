@@ -48,7 +48,11 @@
     "extendedcrafting:guide": {
       "viewedEntries": [
         "extendedcrafting:crafting/combination",
-        "extendedcrafting:crafting/tables"
+        "extendedcrafting:crafting/tables",
+        "extendedcrafting:components/singularities",
+        "extendedcrafting:components/ultimate_singularity",
+        "extendedcrafting:utilities/handheld_table",
+        "extendedcrafting:crafting/compression"
       ],
       "bookmarks": [],
       "completedManualQuests": []
