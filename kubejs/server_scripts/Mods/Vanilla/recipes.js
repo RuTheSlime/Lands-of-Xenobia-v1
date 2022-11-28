@@ -15,9 +15,6 @@ onEvent('recipes', event => {
         I:'minecraft:iron_ingot',
         A:'minecraft:air'
     })
-    event.blasting('9x minecraft:iron_ingot', '#forge:storage_blocks/raw_iron')
-    event.blasting('9x minecraft:copper_ingot', '#forge:storage_blocks/raw_copper')
-    event.blasting('9x minecraft:gold_ingot', '#forge:storage_blocks/raw_gold')
     event.blasting('9x byg:pendorite_scraps', 'byg:raw_pendorite_block')
     event.blasting('9x blue_skies:falsite_ingot', 'blue_skies:raw_falsite_block')
     event.blasting('9x blue_skies:ventium_ingot', 'blue_skies:raw_ventium_block')
