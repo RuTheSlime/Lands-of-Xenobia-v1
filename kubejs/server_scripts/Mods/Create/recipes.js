@@ -1,24 +1,6 @@
 onEvent('recipes',event => {
     event.custom({
         type: 'jobsplus:construction',
-        result: {item:'create:millstone'},
-        key: {
-            A: {item: 'create:cogwheel'},
-            B: {item: 'create:andesite_casing'},
-            C: {item: 'minecraft:smooth_stone_slab'}
-        },
-        pattern: [
-            '     ',
-            '  A  ',
-            '  B  ',
-            '  C  ',
-            '     '
-        ],
-        job: 'BUILDER',
-        requiredLevel: 2
-    })
-    event.custom({
-        type: 'jobsplus:construction',
         result: {item:'create:water_wheel'},
         key: {
             A: {item: 'minecraft:oak_planks'},
