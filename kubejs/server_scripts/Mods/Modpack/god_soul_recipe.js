@@ -1,4 +1,4 @@
-onEvent('recipes', event => {
+/*onEvent('recipes', event => {
 	event.recipes.createMechanicalCrafting('kubejs:god_soul', [
 		'  W C W  ',
 		' WR C RW ',
@@ -25,4 +25,4 @@ onEvent('recipes', event => {
 		D: 'ars_nouveau:wilden_tribute',
 		E: 'mobilebeacon118:mobile_beacon_netherite_ii'
 	})
-})
+})*/
