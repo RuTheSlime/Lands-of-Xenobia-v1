@@ -8,6 +8,8 @@ onEvent('recipes',event => {
     event.remove({output: 'create:mechanical_crafter'})
     event.remove({output: 'create:water_wheel'})
     event.remove({output: 'minecraft:iron_ingot'})
+    event.remove({output: 'minecraft:gold_ingot'})
+    event.remove({output: 'minecraft:copper_ingot'})
     /*remove all mod recipes */
     event.remove({mod: 'alltheores'})
     /*remove recipe id's */
