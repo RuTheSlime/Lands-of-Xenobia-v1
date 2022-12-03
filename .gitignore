@@ -36,3 +36,7 @@ config/AdvancedCompass/mobs/born_in_chaos_v1/mobs.json
 config/AdvancedCompass/mobs/born_in_chaos_v1/seared_spirit.png
 config/dsurround/environs-client-2.toml.bak
 config/jei/world/local/testing/bookmarks.ini
+config/byg/backups/last_working_configs_backup.zip
+config/awesomedungeonnether.properties
+config/bettervillage.properties
+config/fastload.properties
