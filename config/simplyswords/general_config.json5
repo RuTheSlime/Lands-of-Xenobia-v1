@@ -12,8 +12,8 @@
   "standard_loot_table_weight": 0.08,
 
 // Rare Loot: Diamond & Runic Weapons. Default: 0.008 
-  "rare_loot_table_weight": 0,
+  "rare_loot_table_weight": 0.01,
 
 // Unique Loot: Unique Weapons. Default: 0.002 
-  "unique_loot_table_weight": 0
+  "unique_loot_table_weight": 0.004
 }

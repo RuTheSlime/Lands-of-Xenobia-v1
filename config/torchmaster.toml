@@ -10,7 +10,7 @@
 	blockVillageSieges = true
 	#The radius of the mega torch in each direction (cube) with the torch at its center
 	#Range: > 0
-	megaTorchRadius = 128
+	megaTorchRadius = 64
 	#The radius of the dread lamp in each direction (cube) with the torch at its center
 	#Range: > 0
 	dreadLampRadius = 64
@@ -28,10 +28,10 @@
 	dreadLampEntityBlockListOverrides = []
 	#The radius in which the feral flare should try to place lights
 	#Range: 1 ~ 127
-	feralFlareRadius = 32
+	feralFlareRadius = 16
 	#Controls how often the flare should try to place lights. 1 means every tick, 10 every 10th tick, etc
 	#Range: > 1
-	feralFlareTickRate = 3
+	feralFlareTickRate = 5
 	#The target minimum light level to place lights for
 	#Range: 0 ~ 15
 	feralFlareMinLightLevel = 10

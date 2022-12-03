@@ -1,4 +1,8 @@
 {
+  "tconstruct": {
+    "casting_table": true,
+    "drain": true
+  },
   "minecraft": {
     "horse_inventory": true,
     "total_ench_power": true,

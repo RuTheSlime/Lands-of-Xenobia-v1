@@ -52,7 +52,7 @@
 	[common.netheriteBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 144
+		inventorySlotCount = 120
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 7

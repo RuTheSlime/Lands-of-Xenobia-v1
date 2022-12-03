@@ -674,8 +674,8 @@
     "combatroll:count": {
       "enabled": false,
       "min": {
-        "default": 1,
-        "value": 1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 20,
