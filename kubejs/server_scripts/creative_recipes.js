@@ -24,6 +24,6 @@ onEvent('recipes', event => {
         F:'ars_nouveau:summon_focus',
         G:'kubejs:god_soul'
     })
-    event.smithing('create:creative_motor', 'createaddition:electric_motor', 'kubejs:god_soul')
+
     
 })
